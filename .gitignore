@@ -1,0 +1,16 @@
+# General Ignore Rules
+**.zip
+**.pyc
+**/docs
+
+# Python Disttools
+MANIFEST
+
+# Python Tox
+**.tox
+
+#added by R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
